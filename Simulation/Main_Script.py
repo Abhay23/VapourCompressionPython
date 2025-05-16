@@ -276,9 +276,9 @@ h_Evap_out_target=enthalpy*1000
 
 
 # Max number of iterations to avoid infinite loop
-max_iterations_outer = 100
-max_iterations_inner = 100
-max_iterations_utmost = 100
+max_iterations_outer = 30
+max_iterations_inner = 50
+max_iterations_utmost = 20
 
 
 for utmost_iter in range(max_iterations_utmost):  

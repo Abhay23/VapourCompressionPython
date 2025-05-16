@@ -1,6 +1,11 @@
 def Refr(Refrigerant='R134a',input=1,Input1=20,Input2=50):   #-200,100
     if Refrigerant=='R290':
         Refrigerant='Propyne'
+    elif Refrigerant=='R1233zd':
+        Refrigerant='R1233zd(E)'
+    elif Refrigerant=='R717':
+        Refrigerant='Ammonia'
+
 
     import CoolProp.CoolProp as CP
 
