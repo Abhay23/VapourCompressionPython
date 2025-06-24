@@ -1,7 +1,5 @@
 def R134a_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -197,8 +195,6 @@ def R134a_diag():
 
 def R1234yf_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -381,8 +377,7 @@ def R1234yf_diag():
 
 def R1233zd_diag():
     import pandas as pd
-    import os
-    import pylab
+
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -502,8 +497,6 @@ def R1233zd_diag():
 
 def R32_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -623,8 +616,6 @@ def R32_diag():
 
 def R290_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -742,8 +733,6 @@ def R290_diag():
 
 def R12_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -865,8 +854,6 @@ def R12_diag():
 
 def R152A_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -1049,8 +1036,6 @@ def R152A_diag():
 
 def R410A_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -1172,8 +1157,6 @@ def R410A_diag():
 
 def R717_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -1295,8 +1278,6 @@ def R717_diag():
 
 def R718_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np
@@ -1418,8 +1399,6 @@ def R718_diag():
 
 def R744_diag():
     import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
     import seaborn as sns
     import numpy as np

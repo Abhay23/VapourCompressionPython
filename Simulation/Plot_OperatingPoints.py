@@ -1,14 +1,8 @@
 
 def OP(points,line,Enthalpy_points,Pressure_Points):
 
-    import pandas as pd
-    import os
-    import pylab
     import matplotlib.pyplot as plt
-    import seaborn as sns
     import numpy as np
-    import time
-
 
     # Slightly update y-coordinates for animation (example logic)
 

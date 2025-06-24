@@ -33,7 +33,6 @@ sys.stdout = log_file
 
 
 # Importing libraries
-import math 
 import openpyxl
 from sympy import symbols, Eq, solve, log
 import pandas as pd
